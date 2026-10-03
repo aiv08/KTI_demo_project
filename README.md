@@ -4,4 +4,4 @@ This is a demo project created to gain skills in working with Git.
 
 ---
 
-Abdurashitov Ivan# Description of the demonstration project
+Abdurashitov Ivan a.k.a. AIV
